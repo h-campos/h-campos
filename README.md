@@ -86,10 +86,8 @@
 <br><br>
 
 <h4><strong>Languages</strong></h4><hr>
-<img align="left" src="https://img.shields.io/badge/English-B2-blue?style=for-the-badge" />
 <img align="left" src="https://img.shields.io/badge/French-Native-blue?style=for-the-badge" />
-<br><br>
-
+<img align="left" src="https://img.shields.io/badge/English-B2-blue?style=for-the-badge" />
 
 ## Stats
 <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakoutecher&layout=compact" />
