@@ -74,12 +74,12 @@
 <h4><strong>Framework & Librairies</strong></h4><hr>
 <img align="left" src="https://img.shields.io/badge/Apache-D22128?logo=Apache&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Codeigniter-EF4223?logo=codeigniter&logoColor=white" />
+<!--<img align="left" src="https://img.shields.io/badge/Codeigniter-EF4223?logo=codeigniter&logoColor=white" />-->
 <img align="left" src="https://img.shields.io/badge/Font_Awesome-339AF0?logo=fontawesome&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=GitHub%20Pages&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Laragon-0E83CD?logo=Laragon&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
+<!--<img align="left" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />-->
 <img align="left" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
@@ -87,13 +87,13 @@
 <br><br>
 
 <h4><strong>Languages</strong></h4><hr>
-<img align="left" src="https://img.shields.io/badge/English-B2-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
-<img align="left" src="https://img.shields.io/badge/French-Native-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
+<img align="left" src="https://img.shields.io/badge/English-B2-blue?style=for-the-badge" />
+<img align="left" src="https://img.shields.io/badge/French-Native-blue?style=for-the-badge" />
 <br><br>
 
 
 ## Stats
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}" />
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username={Sakoutecher}" />
 
 
 
