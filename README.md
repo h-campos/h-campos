@@ -55,8 +55,8 @@
 </p>
 
 
-## Skills
-<h4><strong>Frontend</strong></4><hr>
+## 📚 Skills
+<h4><strong>👀 Frontend</strong></4><hr>
 <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
 <img align="left" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
@@ -64,13 +64,13 @@
 <img align="left" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 <br><br>
 
-<h4><strong>Backend</strong></h4><hr>
+<h4><strong>🔐 Backend</strong></h4><hr>
 <img align="left" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 <br><br>
 
-<h4><strong>Framework & Librairies</strong></h4><hr>
+<h4><strong>⚙ Framework & Librairies</strong></h4><hr>
 <img align="left" src="https://img.shields.io/badge/Apache-D22128?logo=Apache&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white" />
 <!--<img align="left" src="https://img.shields.io/badge/Codeigniter-EF4223?logo=codeigniter&logoColor=white" />-->
@@ -85,13 +85,12 @@
 <img align="left" src="https://img.shields.io/badge/Xampp-F37623?logo=xampp&logoColor=white" />
 <br><br>
 
-<h4><strong>Languages</strong></h4><hr>
+<h4><strong>🌐 Languages</strong></h4><hr>
 <img align="left" src="https://img.shields.io/badge/French-Native-blue?style=for-the-badge" />
 <img align="left" src="https://img.shields.io/badge/English-B2-blue?style=for-the-badge" />
+<br><br>
 
-
-
-## Stats
+## 📊 Stats
 <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakoutecher&layout=compact" />
 
 
