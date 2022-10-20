@@ -38,6 +38,8 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds have come here o/
 </p>
 
+ <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Sakoutecher&logo=Github&style=for-the-badge&color=16a085'>
+
 <details>
   <summary>📃 Resume</summary>
 
