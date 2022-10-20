@@ -58,15 +58,15 @@
 ## Skills
 <br>
 <h4><strong>Frontend</strong></4><hr>
-<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="left" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
+<img align="left" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 <br><br>
 
 <h4><strong>Backend</strong></h4><hr>
-<img align="left" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <br><br>
