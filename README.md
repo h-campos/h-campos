@@ -56,7 +56,6 @@
 
 
 ## Skills
-<br>
 <h4><strong>Frontend</strong></4><hr>
 <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
@@ -93,7 +92,7 @@
 
 
 ## Stats
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username={Sakoutecher}" />
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakoutecher" />
 
 
 
