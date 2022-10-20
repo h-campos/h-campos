@@ -13,9 +13,9 @@
   <a target='_blank' href="https://www.linkedin.com/in/hugo-campos-782702203/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <div styel='display: flex; justify-content: center; align-items: center;'>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> hcampospro@gmail.com        
-  </div>
+  <a target='_blank' href="hcampospro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
   
 </p>
 
