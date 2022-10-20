@@ -2,18 +2,18 @@
   Hello there 👋 
 </h1>     
 
-<p align='left'>
+<p align='center'>
   I'm Saku or hcampos like you want ! I'm currently learning web developpement ✨
 </p>
 
 
 
-<p align='left'>
+<p align='center'>
   
   <a target='_blank' href="https://www.linkedin.com/in/hugo-campos-782702203/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <div>
+  <div styel='display: flex; justify-content: center; align-items: center;'>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> hcampospro@gmail.com        
   </div>
   
