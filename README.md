@@ -16,7 +16,6 @@
   <a target='_blank' href="mailto:hcampospro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Sakoutecher&logo=Github&style=for-the-badge&color=16a085'>
   
 </p>
 
