@@ -24,7 +24,8 @@
 </p>
 
 <p align='center'>
-  💻 Hardware<br/><br/>
+  <h4><strong>💻 Hardware</strong></4><hr>
+  <br/><br/>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
