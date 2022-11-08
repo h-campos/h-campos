@@ -85,6 +85,7 @@
 <img align="left" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
 <img align="left" src="https://img.shields.io/badge/Xampp-F37623?logo=xampp&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/styled--components-DB7093&logo=styled-components&logoColor=white" />
 <br><br><br>
 
 <h4><strong>🌐 Languages</strong></h4><hr>
