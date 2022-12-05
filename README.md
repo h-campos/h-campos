@@ -3,7 +3,7 @@
 </h1>     
 
 <p align='center'>
-  I'm Saku or hcampos like you want ! I'm currently learning web developpement ✨
+  I'm hcampos like you want ! I'm currently learning web developpement ✨
 </p>
 
 
