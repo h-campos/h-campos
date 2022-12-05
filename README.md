@@ -73,7 +73,7 @@
 <br><br><br>
 
 <h4><strong>⚙ Framework & Librairies</strong></h4><hr>
-<img align="left" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
+<img marginBottom="10px" align="left" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 <!--<img align="left" src="https://img.shields.io/badge/Codeigniter-EF4223?logo=codeigniter&logoColor=white" />-->
 <img align="left" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
