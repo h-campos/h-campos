@@ -1,12 +1,10 @@
 <h1 align='left'>
   Hello there 👋 
-</h1>     
+</h1>  
 
 <p align='center'>
   I'm hcampos ! I'm currently learning web developpement ✨
 </p>
-
-
 
 <p align='center'>
   
@@ -23,9 +21,10 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Sakoutecher&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
+## 💻 Hardware
+
+<br>
 <p align='center'>
-  <h4><strong>💻 Hardware</strong></4><hr>
-  <br/><br/>
   <p align='center'>
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
     <img src="https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white" />
@@ -37,10 +36,11 @@
 <p align='center'>
   📫 Want to talk with me : <a href='mailto:hcampospro@gmail.com'>hcampospro@gmail.com</a>
 </p>
-
+<br>
 
 ## 🔨 What did i use ?
 
+<br>
 <p align='center'>
   <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" />
 </p>
 <p align='center'>
   <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" />
@@ -57,9 +56,10 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" />
 </p>
-
+<br>
 
 ## 📚 Skills
+
 <h4><strong>👀 Frontend</strong></4><hr>
 <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -77,12 +77,10 @@
 <h4><strong>⚙ Framework & Librairies</strong></h4><hr>
 <img align="left" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-<!--<img align="left" src="https://img.shields.io/badge/Codeigniter-EF4223?logo=codeigniter&logoColor=white" />-->
 <img align="left" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
-<!--<img align="left" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />-->
 <img align="left" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -92,7 +90,7 @@
 <img align="left" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
-<br><br><br>
+<br><br><br><br><br><br>
 
 <h4><strong>🌐 Languages</strong></h4><hr>
 <img align="left" src="https://img.shields.io/badge/French-Native-blue?style=for-the-badge" />
@@ -100,8 +98,10 @@
 <br><br><br>
 
 ## 📊 Stats
+
 <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakoutecher&layout=compact" />
 
+## 📊 Coding stats
 
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
