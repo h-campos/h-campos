@@ -106,14 +106,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 40 hrs 10 mins
+Total Time: 41 hrs 58 mins
 
-JavaScript   17 hrs 14 mins  ██████████▓░░░░░░░░░░░░░░   42.92 %
-PHP          13 hrs 25 mins  ████████▒░░░░░░░░░░░░░░░░   33.40 %
-Twig         4 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-YAML         2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-JSON         1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-Git Config   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+JavaScript   17 hrs 26 mins  ██████████▒░░░░░░░░░░░░░░   41.56 %
+PHP          13 hrs 25 mins  ████████░░░░░░░░░░░░░░░░░   31.97 %
+Twig         4 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+YAML         2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+HTML         1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+JSON         1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
