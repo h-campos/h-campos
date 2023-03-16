@@ -1,6 +1,4 @@
-# Hello there 👋
-
-<img src='./github-profile.png'>
+<img style='width: 100vw' src='./github-profile.png'>
 
 ## 💻 Tech Stack:
 
