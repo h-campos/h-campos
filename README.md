@@ -12,6 +12,17 @@
 
 <!--START_SECTION:waka-->
 
+```text
+Total Time: 83 hrs 42 mins
+
+JavaScript   53 hrs 56 mins  ████████████████░░░░░░░░░   64.43 %
+PHP          13 hrs 31 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+Twig         4 hrs 32 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+HTML         2 hrs 50 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+YAML         2 hrs 38 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+JSON         2 hrs 26 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
