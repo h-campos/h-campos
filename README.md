@@ -8,7 +8,7 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Sakoutecher&show_icons=true&count_private=true&&bg_color=70,1f4037,99f2c8&title_color=fff&text_color=fff)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Sakoutecher&show_icons=true&count_private=true&&bg_color=70,11998e,38ef7d&title_color=fff&text_color=fff)<br/>
 
 <!--START_SECTION:waka-->
 
@@ -24,6 +24,3 @@ JSON         2 hrs 26 mins   ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-
-![](https://visitcount.itsvg.in/api?id=Sakoutecher&icon=4&color=3)](https://visitcount.itsvg.in)
