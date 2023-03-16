@@ -1,4 +1,4 @@
-<img style='width: 100vw' src='./hcampos-gradient.png'>
+<img style='width: 100vw' src='./hcampos_gradient.png'>
 
 ## 💻 Tech Stack:
 
