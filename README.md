@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Sakoutecher&show_icons=true&count_private=true&&bg_color=70,11998e,38ef7d&title_color=fff&text_color=fff)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Sakoutecher&show_icons=true&count_private=true&&bg_color=70,11998e,38ef7d&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)<br/>
 
 <!--START_SECTION:waka-->
 
