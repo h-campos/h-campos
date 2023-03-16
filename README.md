@@ -1,4 +1,4 @@
-<img style='width: 100vw' src='./github-profile.png'>
+<img style='width: 100vw' src='./hcampos-gradient.png'>
 
 ## 💻 Tech Stack:
 
@@ -9,16 +9,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sakoutecher&show_icons=true&count_private=true&&bg_color=70,11998e,38ef7d&title_color=fff&text_color=fff)<br/>
 
 <!--START_SECTION:waka-->
-
-```text
-Total Time: 83 hrs 42 mins
-
-JavaScript   53 hrs 56 mins  ████████████████░░░░░░░░░   64.43 %
-PHP          13 hrs 31 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
-Twig         4 hrs 32 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-HTML         2 hrs 50 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-YAML         2 hrs 38 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-JSON         2 hrs 26 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-```
 
 <!--END_SECTION:waka-->
