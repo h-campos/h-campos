@@ -11,14 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 116 hrs 1 min
+Total Time: 121 hrs
 
-JavaScript   65 hrs 21 mins  ██████████████░░░░░░░░░░░   56.33 %
-TypeScript   15 hrs 5 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
-PHP          13 hrs 31 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-HTML         4 hrs 55 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-Twig         4 hrs 32 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-JSON         3 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+JavaScript   66 hrs 47 mins  █████████████▓░░░░░░░░░░░   55.20 %
+TypeScript   18 hrs 35 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
+PHP          13 hrs 31 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+HTML         4 hrs 55 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Twig         4 hrs 32 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+JSON         3 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
 
 <!--END_SECTION:waka-->
