@@ -6,13 +6,13 @@ FrontEnd developper since now 4 years, specialize in the ecosysteme JavaScript/T
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 454 hrs 18 mins
+Total Time: 458 hrs 8 mins
 
-TypeScript       284 hrs 56 mins ███████████████▓░░░░░░░░░   62.72 %
-JavaScript       104 hrs 17 mins █████▓░░░░░░░░░░░░░░░░░░░   22.95 %
-PHP              16 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-CSS              8 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-HTML             7 hrs 53 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+TypeScript       286 hrs 46 mins ███████████████▓░░░░░░░░░   62.59 %
+JavaScript       104 hrs 17 mins █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
+PHP              16 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+CSS              8 hrs 15 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+JSON             7 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
