@@ -8,7 +8,7 @@ FrontEnd developper since now 4 years, specialize in the ecosysteme JavaScript/T
 ```txt
 Total Time: 471 hrs 30 mins
 
-TypeScript       298 hrs 25 mins ███████████████▓░░░░░░░░░   63.29 %
+TypeScript       298 hrs 26 mins ███████████████▓░░░░░░░░░   63.29 %
 JavaScript       104 hrs 20 mins █████▓░░░░░░░░░░░░░░░░░░░   22.13 %
 PHP              16 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 JSON             8 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
