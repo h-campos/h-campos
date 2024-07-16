@@ -5,13 +5,13 @@ Hello, i'm Hugo a Fullstack developper since now 4 years, specialize in the ecos
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 772 hrs 38 mins
+Total Time: 775 hrs 26 mins
 
-TypeScript       581 hrs 11 mins ██████████████████▓░░░░░░   75.22 %
-JavaScript       107 hrs 29 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
-JSON             16 hrs 20 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-PHP              16 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-CSS              9 hrs 32 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+TypeScript       583 hrs 11 mins ██████████████████▓░░░░░░   75.21 %
+JavaScript       107 hrs 29 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
+JSON             16 hrs 22 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+PHP              16 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+CSS              9 hrs 32 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
