@@ -7,12 +7,12 @@ More informations on my [portfolio](https://hcampos.fr)
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,879 hrs 14 mins
+Total Time: 1,883 hrs 10 mins
 
-TypeScript                 1,538 hrs 39 mins     ████████████████████▒░░░░   81.88 %
-JavaScript                 112 hrs 41 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-JSON                       74 hrs 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-Bash                       30 hrs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+TypeScript                 1,542 hrs 34 mins     ████████████████████▒░░░░   81.91 %
+JavaScript                 112 hrs 41 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+JSON                       74 hrs 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Bash                       30 hrs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 Prisma                     17 hrs 5 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
