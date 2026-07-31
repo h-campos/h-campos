@@ -1,6 +1,6 @@
 # 👋 
 
-Hello, i'm Hugo a Fullstack developper since now 5 years, specialize in the ecosysteme JavaScript/Typescript. I mainly use the framework React/Next.
+Hello, i'm Hugo a Fullstack developper since now 6 years, specialize in the ecosysteme JavaScript/Typescript. I mainly use the framework React/Next.
 
 More informations on my [portfolio](https://hcampos.fr)
 
